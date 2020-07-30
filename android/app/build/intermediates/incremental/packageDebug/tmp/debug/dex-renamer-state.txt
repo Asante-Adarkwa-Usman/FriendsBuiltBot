@@ -1,0 +1,4 @@
+#Sat Jul 25 03:40:58 GMT 2020
+base.0=/home/bob/Documents/MyProjects/NativeProjects/FeedbackBot/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
